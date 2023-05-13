@@ -1,8 +1,8 @@
-# PHP-based-E-commerce-Website-ClothingCove
+<h1 align="center">PHP-based-E-commerce-Website-ClothingCove</h1>
 
 <b><i>NOTE : Please read installation and execution steps present at the bottom before downloading. Thank you</i></b>
 
-<h3>Installtion and execution procedure</h3>
+<h2>Installtion and execution procedure</h2>
 1 : Install xampp control panel and update google chrome.
 
 2 : After installing xampp (Default directory : c:/xampp/) , download the project and paste it in directory : (c:/xampp/htdocs/).
